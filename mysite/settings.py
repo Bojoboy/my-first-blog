@@ -25,7 +25,7 @@ SECRET_KEY = 'ar&&on((&dl5^dx((gegfe+kvjn%(cxsdl!b&6*axmw%qq$z3a'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<Bojokat>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'bojokat.pythonanywhere.com']
 
 
 # Application definition
